@@ -1,6 +1,8 @@
+import React from "react";
+
 const Create = () => {
   return (
-    <div>
+    <div className="bg-black w-full h-screen">
       <div></div>
     </div>
   );
